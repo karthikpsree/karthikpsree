@@ -2,7 +2,7 @@
 
 ## Iam Karthik
 
-## Iam a student
+## Iam a student in btech😉
 
 <!--
 **karthikpsree/karthikpsree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
